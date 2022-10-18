@@ -37,17 +37,12 @@ int main() {
             }
         }
     }
-    
-    prava_zat = prava_zat % 2;
-    lava_zat = lava_zat % 2;
-    lavy_zob = lavy_zob % 2;
-    pravy_zob = pravy_zob % 2;
-    
 
-    if(pravy_zob != 0 || lavy_zob != 0) {
-        cout << "had" << endl;
-    } else {
+    int zobaciky = lavy_zob + pravy_zob;
+    if(zobaciky % 2 == 0) {
         cout << "dazdovka" << endl;
+    } else {
+        cout << "had" << endl;
     }
     
     return 0;
