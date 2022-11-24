@@ -1,0 +1,12 @@
+A - DONE 10/10
+B - WA 10/15
+C - DONE 20/20
+D - DONE 25/25
+E - DONE 33/33
+F - TLE 17/35
+H - 
+I - 
+J - 
+K - 
+
+115 bodov sum
