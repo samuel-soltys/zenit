@@ -1,0 +1,10 @@
+A 10b
+B 15b
+C 20b
+D 25b
+E 21b ????? FIX ERROR 5.
+F 40b
+G 12b ???? FIX ERROR
+H ?
+I 
+J 
